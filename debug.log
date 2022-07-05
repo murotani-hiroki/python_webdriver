@@ -1634,3 +1634,637 @@ INFO:amazon:div.s-asin not found.
 INFO:amazon:div.s-asin not found.
 INFO:index:--- getGoodsCsv end ---
 INFO:werkzeug:127.0.0.1 - - [29/Jun/2022 16:53:21] "POST /download HTTP/1.1" 200 -
+INFO:index:--- getGoodsCsv start ---
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1908413.html', 'price': '1100', 'janCode': '4967576450331'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/274018.html', 'price': '19800', 'janCode': '4967576423861'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/516324.html', 'price': '39800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/574849.html', 'price': '16800', 'janCode': '4967576555241'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p1909757.html', 'price': '2680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517115.html', 'price': '12800', 'janCode': '4967576496582'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/562091.html', 'price': '3540', 'janCode': '4967576250252'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1901946.html', 'price': '57800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/573718.html', 'price': '8470', 'janCode': '4967576452564'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517254.html', 'price': '34800', 'janCode': '4967576501033'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/567839.html', 'price': '6980', 'janCode': '4967576419383'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p7095340.html', 'price': '2800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517273.html', 'price': '12950', 'janCode': '4967576501255'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7094382.html', 'price': '6020', 'janCode': '4955014041418'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p513864.html', 'price': '40888', 'janCode': '4967576441513'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/i561058.html', 'price': '14800', 'janCode': '4967576186087'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p517344.html', 'price': '64222', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7145950.html', 'price': '14280', 'janCode': '4974305218773'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572489.html', 'price': '24800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/538563.html', 'price': '49270', 'janCode': '4967576550727'}
+INFO:amazon:div.s-asin not found. janCode=4967576450331
+INFO:amazon:div.s-asin not found. janCode=4967576423861
+INFO:amazon:div.s-asin not found. janCode=4967576531597
+INFO:amazon:div.s-asin not found. janCode=4967576555241
+INFO:amazon:div.s-asin not found. janCode=4967576496582
+INFO:amazon:div.s-asin not found. janCode=4967576250252
+INFO:amazon:div.s-asin not found. janCode=4967576531597
+INFO:amazon:div.s-asin not found. janCode=4967576452564
+INFO:amazon:{'asin': 'B08NPSK2HD', 'price': '37222'}
+INFO:amazon:div.s-asin not found. janCode=4967576419383
+INFO:amazon:div.s-asin not found. janCode=4967576501255
+INFO:amazon:div.s-asin not found. janCode=4955014041418
+INFO:amazon:div.s-asin not found. janCode=4967576441513
+INFO:amazon:div.s-asin not found. janCode=4967576186087
+INFO:amazon:div.s-asin not found. janCode=4974305218773
+INFO:amazon:div.s-asin not found. janCode=4967576550727
+INFO:index:--- getGoodsCsv end ---
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2022 17:20:17] "POST /download HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/hmurotani/Documents/work/scraping/python_webdriver/amazon.py', reloading
+INFO:index:--- getGoodsCsv start ---
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1908413.html', 'price': '1100', 'janCode': '4967576450331'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/274018.html', 'price': '19800', 'janCode': '4967576423861'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/516324.html', 'price': '39800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/574849.html', 'price': '16800', 'janCode': '4967576555241'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p1909757.html', 'price': '2680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517115.html', 'price': '12800', 'janCode': '4967576496582'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/562091.html', 'price': '3540', 'janCode': '4967576250252'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1901946.html', 'price': '57800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/573718.html', 'price': '8470', 'janCode': '4967576452564'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517254.html', 'price': '34800', 'janCode': '4967576501033'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/567839.html', 'price': '6980', 'janCode': '4967576419383'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p7095340.html', 'price': '2800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517273.html', 'price': '12950', 'janCode': '4967576501255'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7094382.html', 'price': '6020', 'janCode': '4955014041418'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p513864.html', 'price': '40888', 'janCode': '4967576441513'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/i561058.html', 'price': '14800', 'janCode': '4967576186087'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p517344.html', 'price': '64222', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7145950.html', 'price': '14280', 'janCode': '4974305218773'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572489.html', 'price': '24800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/538563.html', 'price': '49270', 'janCode': '4967576550727'}
+INFO:amazon:div.s-asin not found. janCode=4967576450331
+INFO:amazon:div.s-asin not found. janCode=4967576423861
+INFO:amazon:div.s-asin not found. janCode=4967576531597
+INFO:amazon:div.s-asin not found. janCode=4967576555241
+INFO:amazon:div.s-asin not found. janCode=4967576496582
+INFO:amazon:div.s-asin not found. janCode=4967576250252
+INFO:amazon:{'asin': 'B092VYR5JY', 'price': '49800'}
+INFO:amazon:div.s-asin not found. janCode=4967576452564
+INFO:amazon:div.s-asin not found. janCode=4967576501033
+INFO:index:--- getGoodsCsv start ---
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1908413.html', 'price': '1100', 'janCode': '4967576450331'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/274018.html', 'price': '19800', 'janCode': '4967576423861'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/516324.html', 'price': '39800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/574849.html', 'price': '16800', 'janCode': '4967576555241'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p1909757.html', 'price': '2680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517115.html', 'price': '12800', 'janCode': '4967576496582'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/562091.html', 'price': '3540', 'janCode': '4967576250252'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1901946.html', 'price': '57800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/573718.html', 'price': '8470', 'janCode': '4967576452564'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517254.html', 'price': '34800', 'janCode': '4967576501033'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/567839.html', 'price': '6980', 'janCode': '4967576419383'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p7095340.html', 'price': '2800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517273.html', 'price': '12950', 'janCode': '4967576501255'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7094382.html', 'price': '6020', 'janCode': '4955014041418'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p513864.html', 'price': '40888', 'janCode': '4967576441513'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/i561058.html', 'price': '14800', 'janCode': '4967576186087'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p517344.html', 'price': '64222', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7145950.html', 'price': '14280', 'janCode': '4974305218773'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572489.html', 'price': '24800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/538563.html', 'price': '49270', 'janCode': '4967576550727'}
+INFO:amazon:div.s-asin not found. janCode=4967576450331
+INFO:amazon:div.s-asin not found. janCode=4967576423861
+INFO:amazon:div.s-asin not found. janCode=4967576531597
+INFO:amazon:div.s-asin not found. janCode=4967576555241
+INFO:amazon:div.s-asin not found. janCode=4967576496582
+INFO:amazon:div.s-asin not found. janCode=4967576250252
+INFO:amazon:div.s-asin not found. janCode=4967576531597
+INFO:amazon:div.s-asin not found. janCode=4967576452564
+INFO:amazon:div.s-asin not found. janCode=4967576501033
+INFO:amazon:div.s-asin not found. janCode=4967576419383
+INFO:amazon:div.s-asin not found. janCode=4967576501255
+INFO:amazon:div.s-asin not found. janCode=4955014041418
+INFO:amazon:div.s-asin not found. janCode=4967576441513
+INFO:amazon:div.s-asin not found. janCode=4967576186087
+INFO:amazon:div.s-asin not found. janCode=4974305218773
+INFO:amazon:div.s-asin not found. janCode=4967576550727
+INFO:index:--- getGoodsCsv end ---
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2022 17:38:11] "POST /download HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/hmurotani/Documents/work/scraping/python_webdriver/amazon.py', reloading
+INFO:index:--- getGoodsCsv start ---
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1908413.html', 'price': '1100', 'janCode': '4967576450331'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/274018.html', 'price': '19800', 'janCode': '4967576423861'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/516324.html', 'price': '39800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/574849.html', 'price': '16800', 'janCode': '4967576555241'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p1909757.html', 'price': '2680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517115.html', 'price': '12800', 'janCode': '4967576496582'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/562091.html', 'price': '3540', 'janCode': '4967576250252'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1901946.html', 'price': '57800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/573718.html', 'price': '8470', 'janCode': '4967576452564'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517254.html', 'price': '34800', 'janCode': '4967576501033'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/567839.html', 'price': '6980', 'janCode': '4967576419383'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p7095340.html', 'price': '2800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517273.html', 'price': '12950', 'janCode': '4967576501255'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7094382.html', 'price': '6020', 'janCode': '4955014041418'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p513864.html', 'price': '40888', 'janCode': '4967576441513'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/i561058.html', 'price': '14800', 'janCode': '4967576186087'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p517344.html', 'price': '64222', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7145950.html', 'price': '14280', 'janCode': '4974305218773'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572489.html', 'price': '24800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/538563.html', 'price': '49270', 'janCode': '4967576550727'}
+INFO:amazon:div.s-asin not found. janCode=4967576450331
+INFO:amazon:div.s-asin not found. janCode=4967576423861
+INFO:amazon:div.s-asin not found. janCode=4967576531597
+INFO:amazon:div.s-asin not found. janCode=4967576555241
+INFO:amazon:{'asin': 'B0928HQ3W6', 'price': '17480'}
+INFO:amazon:div.s-asin not found. janCode=4967576250252
+INFO:amazon:div.s-asin not found. janCode=4967576531597
+INFO:amazon:div.s-asin not found. janCode=4967576452564
+INFO:amazon:div.s-asin not found. janCode=4967576501033
+INFO:amazon:div.s-asin not found. janCode=4967576419383
+INFO:amazon:div.s-asin not found. janCode=4967576501255
+INFO:amazon:div.s-asin not found. janCode=4955014041418
+INFO:amazon:div.s-asin not found. janCode=4967576441513
+INFO:amazon:div.s-asin not found. janCode=4967576186087
+INFO:amazon:div.s-asin not found. janCode=4974305218773
+INFO:amazon:div.s-asin not found. janCode=4967576550727
+INFO:index:--- getGoodsCsv end ---
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2022 17:42:03] "POST /download HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/hmurotani/Documents/work/scraping/python_webdriver/amazon.py', reloading
+INFO:index:--- getGoodsCsv start ---
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1908413.html', 'price': '1100', 'janCode': '4967576450331'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/274018.html', 'price': '19800', 'janCode': '4967576423861'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/516324.html', 'price': '39800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/574849.html', 'price': '16800', 'janCode': '4967576555241'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p1909757.html', 'price': '2680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517115.html', 'price': '12800', 'janCode': '4967576496582'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/562091.html', 'price': '3540', 'janCode': '4967576250252'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1901946.html', 'price': '57800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/573718.html', 'price': '8470', 'janCode': '4967576452564'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517254.html', 'price': '34800', 'janCode': '4967576501033'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/567839.html', 'price': '6980', 'janCode': '4967576419383'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p7095340.html', 'price': '2800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517273.html', 'price': '12950', 'janCode': '4967576501255'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7094382.html', 'price': '6020', 'janCode': '4955014041418'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p513864.html', 'price': '40888', 'janCode': '4967576441513'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/i561058.html', 'price': '14800', 'janCode': '4967576186087'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p517344.html', 'price': '64222', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7145950.html', 'price': '14280', 'janCode': '4974305218773'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572489.html', 'price': '24800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/538563.html', 'price': '49270', 'janCode': '4967576550727'}
+INFO:amazon:div.s-asin not found. janCode=4967576450331
+INFO:amazon:div.s-asin not found. janCode=4967576423861
+INFO:amazon:div.s-asin not found. janCode=4967576531597
+INFO:amazon:div.s-asin not found. janCode=4967576555241
+INFO:amazon:div.s-asin not found. janCode=4967576496582
+INFO:amazon:div.s-asin not found. janCode=4967576250252
+INFO:amazon:div.s-asin not found. janCode=4967576531597
+INFO:amazon:div.s-asin not found. janCode=4967576452564
+INFO:amazon:div.s-asin not found. janCode=4967576501033
+INFO:amazon:{'asin': 'B07SBSYVDD', 'price': '9980'}
+INFO:amazon:div.s-asin not found. janCode=4967576501255
+INFO:amazon:div.s-asin not found. janCode=4955014041418
+INFO:amazon:div.s-asin not found. janCode=4967576441513
+INFO:amazon:div.s-asin not found. janCode=4967576186087
+INFO:amazon:div.s-asin not found. janCode=4974305218773
+INFO:amazon:div.s-asin not found. janCode=4967576550727
+INFO:index:--- getGoodsCsv end ---
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2022 17:48:37] "POST /download HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/hmurotani/Documents/work/scraping/python_webdriver/amazon.py', reloading
+INFO:index:--- getGoodsCsv start ---
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1908413.html', 'price': '1100', 'janCode': '4967576450331'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/274018.html', 'price': '19800', 'janCode': '4967576423861'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/516324.html', 'price': '39800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/574849.html', 'price': '16800', 'janCode': '4967576555241'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p1909757.html', 'price': '2680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517115.html', 'price': '12800', 'janCode': '4967576496582'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/562091.html', 'price': '3540', 'janCode': '4967576250252'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1901946.html', 'price': '57800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/573718.html', 'price': '8470', 'janCode': '4967576452564'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517254.html', 'price': '34800', 'janCode': '4967576501033'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/567839.html', 'price': '6980', 'janCode': '4967576419383'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p7095340.html', 'price': '2800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517273.html', 'price': '12950', 'janCode': '4967576501255'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7094382.html', 'price': '6020', 'janCode': '4955014041418'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p513864.html', 'price': '40888', 'janCode': '4967576441513'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/i561058.html', 'price': '14800', 'janCode': '4967576186087'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p517344.html', 'price': '64222', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7145950.html', 'price': '14280', 'janCode': '4974305218773'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572489.html', 'price': '24800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/538563.html', 'price': '49270', 'janCode': '4967576550727'}
+INFO:amazon:div.s-asin not found. janCode=4967576450331
+INFO:amazon:div.s-asin not found. janCode=4967576423861
+INFO:amazon:div.s-asin not found. janCode=4967576531597
+INFO:amazon:div.s-asin not found. janCode=4967576555241
+INFO:amazon:div.s-asin not found. janCode=4967576496582
+INFO:amazon:div.s-asin not found. janCode=4967576250252
+INFO:amazon:div.s-asin not found. janCode=4967576531597
+INFO:amazon:div.s-asin not found. janCode=4967576452564
+INFO:amazon:div.s-asin not found. janCode=4967576501033
+INFO:amazon:div.s-asin not found. janCode=4967576419383
+INFO:amazon:div.s-asin not found. janCode=4967576501255
+INFO:amazon:div.s-asin not found. janCode=4955014041418
+INFO:amazon:div.s-asin not found. janCode=4967576441513
+INFO:amazon:div.s-asin not found. janCode=4967576186087
+INFO:amazon:div.s-asin not found. janCode=4974305218773
+INFO:amazon:div.s-asin found. janCode=4967576550727
+INFO:amazon:{'asin': 'B09N72ZMM8', 'price': '47500'}
+INFO:index:--- getGoodsCsv end ---
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2022 17:59:09] "POST /download HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/hmurotani/Documents/work/scraping/python_webdriver/amazon_debug.py', reloading
+INFO:__main__:item not found.
+INFO:__main__:item found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:__main__:item not found.
+INFO:index:--- getGoodsCsv start ---
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 11:01:30] "[36mGET /static/loading.gif HTTP/1.1[0m" 304 -
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/274018.html', 'price': '19800', 'janCode': '4967576423861'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1908413.html', 'price': '1100', 'janCode': '4967576450331'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/516324.html', 'price': '39800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/574849.html', 'price': '16800', 'janCode': '4967576555241'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p1909757.html', 'price': '2680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517115.html', 'price': '12800', 'janCode': '4967576496582'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/562091.html', 'price': '3540', 'janCode': '4967576250252'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1901946.html', 'price': '57800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/573718.html', 'price': '8470', 'janCode': '4967576452564'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517254.html', 'price': '34800', 'janCode': '4967576501033'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p7095340.html', 'price': '2800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517273.html', 'price': '12950', 'janCode': '4967576501255'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7094382.html', 'price': '6020', 'janCode': '4955014041418'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p513864.html', 'price': '40888', 'janCode': '4967576441513'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/i561058.html', 'price': '14800', 'janCode': '4967576186087'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/567839.html', 'price': '7280', 'janCode': '4967576419383'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p517344.html', 'price': '64222', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7145950.html', 'price': '14280', 'janCode': '4974305218773'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572489.html', 'price': '24800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/538563.html', 'price': '49270', 'janCode': '4967576550727'}
+INFO:amazon:div.s-asin found. janCode=4967576423861
+INFO:amazon:{'asin': 'B07TLD5W4K', 'price': '23070'}
+INFO:amazon:div.s-asin found. janCode=4967576450331
+INFO:amazon:{'asin': 'B07Z4JY33S', 'price': '768'}
+INFO:amazon:div.s-asin found. janCode=4967576531597
+INFO:amazon:{'asin': 'B092VYR5JY', 'price': '49800'}
+INFO:amazon:div.s-asin found. janCode=4967576555241
+INFO:amazon:{'asin': 'B09N7JRRN3', 'price': '39961'}
+INFO:amazon:div.s-asin found. janCode=4967576496582
+INFO:amazon:{'asin': 'B0928HQ3W6', 'price': '14800'}
+INFO:amazon:div.s-asin found. janCode=4967576250252
+INFO:amazon:{'asin': 'B01LY8NPG5', 'price': '3629'}
+INFO:amazon:div.s-asin found. janCode=4967576531597
+INFO:amazon:{'asin': 'B092VYR5JY', 'price': '49800'}
+INFO:amazon:div.s-asin found. janCode=4967576452564
+INFO:amazon:{'asin': 'B0B2CM7SDG', 'price': '16752'}
+INFO:amazon:div.s-asin found. janCode=4967576501033
+INFO:amazon:{'asin': 'B08NPSK2HD', 'price': '37222'}
+INFO:amazon:div.s-asin found. janCode=4967576501255
+INFO:amazon:{'asin': 'B09SSYFJBD', 'price': '15578'}
+INFO:amazon:div.s-asin not found. janCode=4955014041418
+INFO:amazon:div.s-asin found. janCode=4967576441513
+INFO:amazon:{'asin': 'B08VSZ86DM', 'price': '62680'}
+INFO:amazon:div.s-asin found. janCode=4967576186087
+INFO:amazon:{'asin': 'B09HMBGHTW', 'price': '20540'}
+INFO:amazon:div.s-asin found. janCode=4967576419383
+INFO:amazon:{'asin': 'B07PWZDSNC', 'price': '6960'}
+INFO:amazon:div.s-asin found. janCode=4974305218773
+INFO:amazon:{'asin': 'B089M5MSP3', 'price': '13200'}
+INFO:amazon:div.s-asin found. janCode=4967576550727
+INFO:amazon:{'asin': 'B09N72ZMM8', 'price': '49800'}
+INFO:index:--- getGoodsCsv end ---
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 11:03:25] "POST /download HTTP/1.1" 200 -
+INFO:index:--- getGoodsCsv start ---
+INFO:werkzeug:127.0.0.1 - - [05/Jul/2022 11:16:38] "GET /static/loading.gif HTTP/1.1" 200 -
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517115.html', 'price': '12800', 'janCode': '4967576496582'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/516324.html', 'price': '41800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/574849.html', 'price': '16779', 'janCode': '4967576555241'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p1909757.html', 'price': '2680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7094382.html', 'price': '5780', 'janCode': '4955014041418'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1901946.html', 'price': '57800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7152123.html', 'price': '34400', 'janCode': '4992536441210'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/573718.html', 'price': '8470', 'janCode': '4967576452564'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/562091.html', 'price': '3980', 'janCode': '4967576250252'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7145950.html', 'price': '14280', 'janCode': '4974305218773'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/274018.html', 'price': '19800', 'janCode': '4967576423861'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p517557.html', 'price': '13800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572489.html', 'price': '24800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/538563.html', 'price': '49270', 'janCode': '4967576550727'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7616209.html', 'price': '1680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p513864.html', 'price': '40888', 'janCode': '4967576441513'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517989.html', 'price': '52800', 'janCode': '4967576531290'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p7245698.html', 'price': '9980', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517254.html', 'price': '34800', 'janCode': '4967576501033'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572638.html', 'price': '39800', 'janCode': '4967576394383'}
+INFO:amazon:div.s-asin found. janCode=4967576496582
+INFO:amazon:{'asin': 'B0928HQ3W6', 'price': '16130'}
+INFO:amazon:div.s-asin not found. janCode=4967576531597
+INFO:amazon:div.s-asin found. janCode=4967576555241
+INFO:amazon:{'asin': 'B09N7JRRN3', 'price': '42942'}
+INFO:amazon:div.s-asin not found. janCode=4955014041418
+INFO:amazon:div.s-asin not found. janCode=4967576531597
+INFO:amazon:div.s-asin found. janCode=4992536441210
+INFO:amazon:{'asin': 'B06XRQNN9P', 'price': '36800'}
+INFO:amazon:div.s-asin found. janCode=4967576452564
+INFO:amazon:{'asin': 'B08YZ1SLQG', 'price': '28271'}
+INFO:amazon:div.s-asin found. janCode=4967576250252
+INFO:amazon:{'asin': 'B01LY8NPG5', 'price': '3629'}
+INFO:amazon:div.s-asin found. janCode=4974305218773
+INFO:amazon:{'asin': 'B07VNPVPX6', 'price': '18582'}
+INFO:amazon:div.s-asin found. janCode=4967576423861
+INFO:amazon:{'asin': 'B07TLD5W4K', 'price': '23300'}
+INFO:amazon:div.s-asin found. janCode=4967576550727
+INFO:amazon:{'asin': 'B09N72ZMM8', 'price': '49700'}
+INFO:amazon:div.s-asin found. janCode=4967576441513
+INFO:amazon:{'asin': 'B07Z89WLP1', 'price': '31800'}
+INFO:amazon:div.s-asin found. janCode=4967576531290
+INFO:amazon:{'asin': 'B092VZTQB3', 'price': '56800'}
+INFO:amazon:div.s-asin found. janCode=4967576501033
+INFO:amazon:{'asin': 'B08NPSK2HD', 'price': '37220'}
+INFO:amazon:div.s-asin found. janCode=4967576394383
+INFO:amazon:{'asin': 'B07KKPYXFS', 'price': '38280'}
+INFO:index:--- getGoodsCsv end ---
+INFO:werkzeug:127.0.0.1 - - [05/Jul/2022 11:18:44] "POST /download HTTP/1.1" 200 -
+INFO:index:--- getGoodsCsv start ---
+INFO:werkzeug:127.0.0.1 - - [05/Jul/2022 11:24:48] "[36mGET /static/loading.gif HTTP/1.1[0m" 304 -
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110471.html', 'price': '33890', 'janCode': '4580652110471'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431670.html', 'price': '37800', 'janCode': '4571495431670'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495432028.html', 'price': '21800', 'janCode': '4571495432028'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110983.html', 'price': '76800', 'janCode': '4580652110983'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110976.html', 'price': '71800', 'janCode': '4580652110976'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110969.html', 'price': '65800', 'janCode': '4580652110969'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495432035.html', 'price': '29800', 'janCode': '4571495432035'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431991.html', 'price': '76800', 'janCode': '4571495431991'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4589449352674.html', 'price': '28080', 'janCode': '4589449352674'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4974019172248.html', 'price': '127800', 'janCode': '4974019172248'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4549980485712.html', 'price': '126950', 'janCode': '4549980485712'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110488.html', 'price': '44860', 'janCode': '4580652110488'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652111560.html', 'price': '130800', 'janCode': '4580652111560'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431922.html', 'price': '18480', 'janCode': '4571495431922'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110372.html', 'price': '129800', 'janCode': '4580652110372'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4974019172262.html', 'price': '86600', 'janCode': '4974019172262'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4549980486191.html', 'price': '168000', 'janCode': '4549980486191'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495432011.html', 'price': '18480', 'janCode': '4571495432011'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431984.html', 'price': '57800', 'janCode': '4571495431984'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431953.html', 'price': '34800', 'janCode': '4571495431953'}
+INFO:amazon:div.s-asin found. janCode=4580652110471
+INFO:amazon:{'asin': 'B08HCLN57P', 'price': '33650'}
+INFO:amazon:div.s-asin found. janCode=4571495431670
+INFO:amazon:{'asin': 'B09BZKDGDY', 'price': '37800'}
+INFO:amazon:div.s-asin found. janCode=4571495432028
+INFO:amazon:{'asin': 'B09V12XMZW', 'price': '21800'}
+INFO:amazon:div.s-asin found. janCode=4580652110983
+INFO:amazon:{'asin': 'B08MDVHDF1', 'price': '98982'}
+INFO:amazon:div.s-asin found. janCode=4580652110976
+INFO:amazon:{'asin': 'B08MDVBJRD', 'price': '69388'}
+INFO:amazon:div.s-asin found. janCode=4580652110969
+INFO:amazon:{'asin': 'B08M8P29X8', 'price': '65480'}
+INFO:amazon:div.s-asin found. janCode=4571495432035
+INFO:amazon:{'asin': 'B09V11VWZQ', 'price': '29800'}
+INFO:amazon:div.s-asin found. janCode=4571495431991
+INFO:amazon:{'asin': 'B09P88GMLR', 'price': '79800'}
+INFO:amazon:div.s-asin found. janCode=4589449352674
+INFO:amazon:{'asin': 'B09NB8NXTB', 'price': '27800'}
+INFO:amazon:div.s-asin found. janCode=4974019172248
+INFO:amazon:{'asin': 'B092VFMQHS', 'price': '132000'}
+INFO:amazon:div.s-asin found. janCode=4549980485712
+INFO:amazon:{'asin': 'B0932M5LWF', 'price': '138000'}
+INFO:amazon:div.s-asin found. janCode=4580652110488
+INFO:amazon:{'asin': 'B08J7TMY1Z', 'price': '43305'}
+INFO:amazon:div.s-asin found. janCode=4580652111560
+INFO:amazon:{'asin': 'B09936JMHJ', 'price': '132800'}
+INFO:amazon:div.s-asin found. janCode=4571495431922
+INFO:amazon:{'asin': 'B09P898YH2', 'price': '18480'}
+INFO:amazon:div.s-asin found. janCode=4580652110372
+INFO:amazon:{'asin': 'B0872PQWT2', 'price': '124500'}
+INFO:amazon:div.s-asin found. janCode=4974019172262
+INFO:amazon:{'asin': 'B092VF21ZM', 'price': '87779'}
+INFO:amazon:div.s-asin found. janCode=4549980486191
+INFO:amazon:{'asin': 'B0932NT5WQ', 'price': '150000'}
+INFO:amazon:div.s-asin found. janCode=4571495432011
+INFO:amazon:{'asin': 'B09TZZ8JYH', 'price': '17980'}
+INFO:amazon:div.s-asin found. janCode=4571495431984
+INFO:amazon:{'asin': 'B09PY78HSY', 'price': '57800'}
+INFO:amazon:div.s-asin found. janCode=4571495431953
+INFO:amazon:{'asin': 'B09V11H93Z', 'price': '34800'}
+INFO:index:--- getGoodsCsv end ---
+INFO:werkzeug:127.0.0.1 - - [05/Jul/2022 11:26:42] "POST /download HTTP/1.1" 200 -

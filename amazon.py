@@ -25,14 +25,16 @@ def getAmazonInfo(janCode):
     input.send_keys(janCode)
     input.submit()
 
+    driver.implicitly_wait(10)
     try: 
         item = driver.find_element(By.CSS_SELECTOR, 'div.s-asin')
         if not item:
             driver.quit()
             return {'asin':'', 'price':''}
     except Exception:
-        logger.info('div.s-asin not found.')
+        logger.info(f'div.s-asin not found. janCode={janCode}')
         return {'asin':'', 'price':''}
+    logger.info(f'div.s-asin found. janCode={janCode}')
     asin = item.get_attribute('data-asin')
 
     price = ''
