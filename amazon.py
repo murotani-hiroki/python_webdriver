@@ -20,6 +20,7 @@ def getAmazonInfo(janCode):
     options.add_argument('--disable-dev-shm-usage')
 
     driver = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver', options=options)
+    driver.set_window_size('1200', '1000')
     driver.get('https://www.amazon.co.jp')
     input = driver.find_element(By.NAME, 'field-keywords')
     input.send_keys(janCode)
@@ -28,22 +29,21 @@ def getAmazonInfo(janCode):
     driver.implicitly_wait(10)
     try: 
         item = driver.find_element(By.CSS_SELECTOR, 'div.s-asin')
-        if not item:
-            driver.quit()
-            return {'asin':'', 'price':''}
     except Exception:
         logger.info(f'div.s-asin not found. janCode={janCode}')
         return {'asin':'', 'price':''}
-    logger.info(f'div.s-asin found. janCode={janCode}')
     asin = item.get_attribute('data-asin')
 
-    price = ''
-    item = driver.find_element(By.CSS_SELECTOR, 'div.s-result-item div.sg-col-inner .a-price-whole')
-    if item:
-        price = item.text
-        price = price.replace('¥', '')
-        price = price.replace('￥', '')
-        price = price.replace(',', '')
+    try:
+        item = driver.find_element(By.CSS_SELECTOR, 'div.s-result-item div.sg-col-inner .a-price-whole')
+    except Exception:
+        logger.info(f'div.s-result-item div.sg-col-inner .a-price-whole not found. janCode={janCode}')
+        return {'asin':'', 'price':''}
+    
+    price = item.text
+    price = price.replace('¥', '')
+    price = price.replace('￥', '')
+    price = price.replace(',', '')
 
     driver.quit()
 

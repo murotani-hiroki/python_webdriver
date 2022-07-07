@@ -19,6 +19,7 @@ def getYahooInfo(url):
 
 
     driver = webdriver.Chrome(executable_path=os.getcwd() + '/chromedriver', options=options)
+    driver.set_window_size('1200', '1000')
     driver.get(url)
     
     shopName = driver.find_element(By.CSS_SELECTOR, 'div.mdBreadCrumb li:first-child span').text

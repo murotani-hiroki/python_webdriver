@@ -2268,3 +2268,435 @@ INFO:amazon:div.s-asin found. janCode=4571495431953
 INFO:amazon:{'asin': 'B09V11H93Z', 'price': '34800'}
 INFO:index:--- getGoodsCsv end ---
 INFO:werkzeug:127.0.0.1 - - [05/Jul/2022 11:26:42] "POST /download HTTP/1.1" 200 -
+INFO:index:--- getGoodsCsv start ---
+INFO:index:--- getGoodsCsv start ---
+INFO:yahoo:ok
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517115.html', 'price': '12800', 'janCode': '4967576496582'}
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110471.html', 'price': '33890', 'janCode': '4580652110471'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/574849.html', 'price': '16779', 'janCode': '4967576555241'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110983.html', 'price': '76800', 'janCode': '4580652110983'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7094382.html', 'price': '6020', 'janCode': '4955014041418'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431670.html', 'price': '41800', 'janCode': '4571495431670'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p1909757.html', 'price': '2680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110976.html', 'price': '71800', 'janCode': '4580652110976'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/516324.html', 'price': '41800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495432028.html', 'price': '21800', 'janCode': '4571495432028'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1901946.html', 'price': '59800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110969.html', 'price': '65800', 'janCode': '4580652110969'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/573718.html', 'price': '11088', 'janCode': '4967576452564'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431991.html', 'price': '76800', 'janCode': '4571495431991'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7145950.html', 'price': '14280', 'janCode': '4974305218773'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495432035.html', 'price': '29800', 'janCode': '4571495432035'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7152123.html', 'price': '34400', 'janCode': '4992536441210'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4974019172248.html', 'price': '127800', 'janCode': '4974019172248'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p517557.html', 'price': '13800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4549980485712.html', 'price': '126950', 'janCode': '4549980485712'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/274018.html', 'price': '19800', 'janCode': '4967576423861'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4589449352674.html', 'price': '28080', 'janCode': '4589449352674'}
+INFO:yahoo:ok
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110488.html', 'price': '44860', 'janCode': '4580652110488'}
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/562091.html', 'price': '3980', 'janCode': '4967576250252'}
+INFO:yahoo:ok
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652111560.html', 'price': '130800', 'janCode': '4580652111560'}
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7616209.html', 'price': '1680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/538563.html', 'price': '49270', 'janCode': '4967576550727'}
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431984.html', 'price': '57800', 'janCode': '4571495431984'}
+INFO:yahoo:ok
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4974019172262.html', 'price': '86600', 'janCode': '4974019172262'}
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572489.html', 'price': '24800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580341985748.html', 'price': '99800', 'janCode': '4580341985748'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517254.html', 'price': '34800', 'janCode': '4967576501033'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431939.html', 'price': '19800', 'janCode': '4571495431939'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517273.html', 'price': '16444', 'janCode': '4967576501255'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652111508.html', 'price': '179000', 'janCode': '4580652111508'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/287573.html', 'price': '9381', 'janCode': '4967576521215'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495432011.html', 'price': '18480', 'janCode': '4571495432011'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/285278.html', 'price': '3980', 'janCode': '4967576493758'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431953.html', 'price': '34800', 'janCode': '4571495431953'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572638.html', 'price': '39800', 'janCode': '4967576394383'}
+INFO:amazon:div.s-asin found. janCode=4580652110471
+INFO:amazon:{'asin': 'B08HCLN57P', 'price': '33499'}
+INFO:amazon:div.s-asin found. janCode=4967576496582
+INFO:amazon:{'asin': 'B0928HQ3W6', 'price': '15935'}
+INFO:amazon:div.s-asin found. janCode=4580652110983
+INFO:amazon:{'asin': 'B08MDVHDF1', 'price': '71927'}
+INFO:amazon:div.s-asin found. janCode=4967576555241
+INFO:amazon:{'asin': 'B09N7JRRN3', 'price': '42942'}
+INFO:amazon:div.s-asin found. janCode=4571495431670
+INFO:amazon:{'asin': 'B09BZKDGDY', 'price': '41800'}
+INFO:amazon:div.s-asin found. janCode=4580652110976
+INFO:amazon:{'asin': 'B08MDVBJRD', 'price': '66768'}
+INFO:amazon:div.s-asin found. janCode=4571495432028
+INFO:amazon:{'asin': 'B09V12XMZW', 'price': '21800'}
+INFO:amazon:div.s-asin not found. janCode=4955014041418
+INFO:amazon:div.s-asin found. janCode=4580652110969
+INFO:amazon:{'asin': 'B08M8P29X8', 'price': '60036'}
+INFO:amazon:div.s-asin found. janCode=4967576531597
+INFO:amazon:{'asin': 'B092VYR5JY', 'price': '47800'}
+INFO:amazon:div.s-asin found. janCode=4967576531597
+INFO:amazon:{'asin': 'B092VYR5JY', 'price': '47800'}
+INFO:amazon:div.s-asin found. janCode=4571495431991
+INFO:amazon:{'asin': 'B09P88GMLR', 'price': '79800'}
+INFO:amazon:div.s-asin found. janCode=4967576452564
+INFO:amazon:{'asin': 'B08YZ1SLQG', 'price': '28789'}
+INFO:amazon:div.s-asin found. janCode=4571495432035
+INFO:amazon:{'asin': 'B09V11VWZQ', 'price': '29800'}
+INFO:amazon:div.s-asin found. janCode=4974305218773
+INFO:amazon:{'asin': 'B089M5MSP3', 'price': '13199'}
+INFO:amazon:div.s-asin found. janCode=4974019172248
+INFO:amazon:{'asin': 'B092VFMQHS', 'price': '132000'}
+INFO:amazon:div.s-asin found. janCode=4992536441210
+INFO:amazon:{'asin': 'B06XRQNN9P', 'price': '36800'}
+INFO:amazon:div.s-asin found. janCode=4549980485712
+INFO:amazon:{'asin': 'B0932M5LWF', 'price': '138000'}
+INFO:amazon:div.s-asin found. janCode=4967576423861
+INFO:amazon:{'asin': 'B07TLD5W4K', 'price': '23300'}
+INFO:amazon:div.s-asin found. janCode=4589449352674
+INFO:amazon:{'asin': 'B09NB8NXTB', 'price': '27800'}
+INFO:amazon:div.s-asin found. janCode=4967576250252
+INFO:amazon:{'asin': 'B01LY8NPG5', 'price': '4423'}
+INFO:amazon:div.s-asin found. janCode=4580652110488
+INFO:amazon:{'asin': 'B08J7TMY1Z', 'price': '43299'}
+INFO:amazon:div.s-asin found. janCode=4967576550727
+INFO:amazon:{'asin': 'B09N72ZMM8', 'price': '49700'}
+INFO:amazon:div.s-asin found. janCode=4580652111560
+INFO:amazon:{'asin': 'B09936JMHJ', 'price': '132800'}
+INFO:amazon:div.s-asin found. janCode=4967576501033
+INFO:amazon:{'asin': 'B08NPSK2HD', 'price': '37200'}
+INFO:amazon:div.s-asin found. janCode=4571495431984
+INFO:amazon:{'asin': 'B09PY78HSY', 'price': '57800'}
+INFO:amazon:div.s-asin found. janCode=4967576501255
+INFO:amazon:{'asin': 'B09SSYFJBD', 'price': '14507'}
+INFO:amazon:div.s-asin found. janCode=4974019172262
+INFO:amazon:{'asin': 'B092VF21ZM', 'price': '87000'}
+INFO:amazon:div.s-asin found. janCode=4967576521215
+INFO:amazon:{'asin': 'B09TWSHWRY', 'price': '16398'}
+INFO:amazon:div.s-asin found. janCode=4580341985748
+INFO:amazon:{'asin': 'B0B3TDGGZP', 'price': '143000'}
+INFO:amazon:div.s-asin found. janCode=4967576493758
+INFO:amazon:{'asin': 'B08LKCM38C', 'price': '3690'}
+INFO:amazon:div.s-asin found. janCode=4571495431939
+INFO:amazon:{'asin': 'B09TZXX8W4', 'price': '19800'}
+INFO:amazon:div.s-asin found. janCode=4967576394383
+INFO:amazon:div.s-asin found. janCode=4580652111508
+INFO:amazon:{'asin': 'B09HBZJRK7', 'price': '192635'}
+INFO:amazon:div.s-asin found. janCode=4571495432011
+INFO:amazon:{'asin': 'B09TZZ8JYH', 'price': '17980'}
+INFO:amazon:div.s-asin found. janCode=4571495431953
+INFO:amazon:{'asin': 'B09V11H93Z', 'price': '34800'}
+INFO:index:--- getGoodsCsv end ---
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2022 11:13:00] "POST /download HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2022 11:13:00] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+INFO:index:--- getGoodsCsv start ---
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110471.html', 'price': '33890', 'janCode': '4580652110471'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110983.html', 'price': '76800', 'janCode': '4580652110983'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431670.html', 'price': '41800', 'janCode': '4571495431670'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110976.html', 'price': '71800', 'janCode': '4580652110976'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495432028.html', 'price': '21800', 'janCode': '4571495432028'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110969.html', 'price': '65800', 'janCode': '4580652110969'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431991.html', 'price': '76800', 'janCode': '4571495431991'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495432035.html', 'price': '29800', 'janCode': '4571495432035'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4974019172248.html', 'price': '127800', 'janCode': '4974019172248'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4549980485712.html', 'price': '126950', 'janCode': '4549980485712'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4589449352674.html', 'price': '28080', 'janCode': '4589449352674'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652110488.html', 'price': '44860', 'janCode': '4580652110488'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652111560.html', 'price': '130800', 'janCode': '4580652111560'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431984.html', 'price': '57800', 'janCode': '4571495431984'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4974019172262.html', 'price': '86600', 'janCode': '4974019172262'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580341985748.html', 'price': '99800', 'janCode': '4580341985748'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431939.html', 'price': '19800', 'janCode': '4571495431939'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4580652111508.html', 'price': '179000', 'janCode': '4580652111508'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495432011.html', 'price': '18480', 'janCode': '4571495432011'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': '総合通販PREMOA Yahoo!店', 'url': 'https://store.shopping.yahoo.co.jp/sake-premoa/4571495431953.html', 'price': '34800', 'janCode': '4571495431953'}
+INFO:amazon:div.s-asin found. janCode=4580652110471
+INFO:amazon:{'asin': 'B08HCLN57P', 'price': '33499'}
+INFO:amazon:div.s-asin found. janCode=4580652110983
+INFO:amazon:{'asin': 'B091P8YW1B', 'price': '98982'}
+INFO:amazon:div.s-asin found. janCode=4571495431670
+INFO:amazon:{'asin': 'B09BZKDGDY', 'price': '41800'}
+INFO:amazon:div.s-asin found. janCode=4580652110976
+INFO:amazon:{'asin': 'B08MDVBJRD', 'price': '66768'}
+INFO:amazon:div.s-asin found. janCode=4571495432028
+INFO:amazon:{'asin': 'B09V12XMZW', 'price': '21800'}
+INFO:amazon:div.s-asin found. janCode=4580652110969
+INFO:amazon:{'asin': 'B08M8P29X8', 'price': '60036'}
+INFO:amazon:div.s-asin found. janCode=4571495431991
+INFO:amazon:{'asin': 'B09P88GMLR', 'price': '79800'}
+INFO:amazon:div.s-asin found. janCode=4571495432035
+INFO:amazon:{'asin': 'B09V11VWZQ', 'price': '29800'}
+INFO:amazon:div.s-asin found. janCode=4974019172248
+INFO:amazon:{'asin': 'B092VFMQHS', 'price': '132000'}
+INFO:amazon:div.s-asin found. janCode=4549980485712
+INFO:amazon:{'asin': 'B0932M5LWF', 'price': '138000'}
+INFO:amazon:div.s-asin found. janCode=4589449352674
+INFO:amazon:{'asin': 'B09NB8NXTB', 'price': '27800'}
+INFO:amazon:div.s-asin found. janCode=4580652110488
+INFO:amazon:{'asin': 'B08J7TMY1Z', 'price': '43299'}
+INFO:amazon:div.s-asin found. janCode=4580652111560
+INFO:amazon:{'asin': 'B09936JMHJ', 'price': '132800'}
+INFO:amazon:div.s-asin found. janCode=4571495431984
+INFO:amazon:{'asin': 'B09PY78HSY', 'price': '57800'}
+INFO:amazon:div.s-asin found. janCode=4974019172262
+INFO:amazon:{'asin': 'B092VF21ZM', 'price': '87000'}
+INFO:amazon:div.s-asin found. janCode=4580341985748
+INFO:amazon:{'asin': 'B0B3TDGGZP', 'price': '143000'}
+INFO:amazon:div.s-asin found. janCode=4571495431939
+INFO:amazon:{'asin': 'B09TZXX8W4', 'price': '19800'}
+INFO:amazon:div.s-asin found. janCode=4580652111508
+INFO:amazon:{'asin': 'B09HBZJRK7', 'price': '98982'}
+INFO:amazon:div.s-asin found. janCode=4571495432011
+INFO:amazon:{'asin': 'B09TZZ8JYH', 'price': '17980'}
+INFO:amazon:div.s-asin found. janCode=4571495431953
+INFO:amazon:{'asin': 'B09V11H93Z', 'price': '34800'}
+INFO:index:--- getGoodsCsv end ---
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2022 11:21:35] "POST /download HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2022 11:21:53] "GET / HTTP/1.1" 200 -
+INFO:index:--- getGoodsCsv start ---
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2022 11:22:02] "GET /static/loading.gif HTTP/1.1" 200 -
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517115.html', 'price': '12800', 'janCode': '4967576496582'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/574849.html', 'price': '16779', 'janCode': '4967576555241'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7094382.html', 'price': '6020', 'janCode': '4955014041418'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p1909757.html', 'price': '2680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/516324.html', 'price': '41800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1901946.html', 'price': '59800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/573718.html', 'price': '11088', 'janCode': '4967576452564'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7145950.html', 'price': '14280', 'janCode': '4974305218773'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7152123.html', 'price': '34400', 'janCode': '4992536441210'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p517557.html', 'price': '13800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/274018.html', 'price': '19800', 'janCode': '4967576423861'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/562091.html', 'price': '3980', 'janCode': '4967576250252'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7616209.html', 'price': '1680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/538563.html', 'price': '49270', 'janCode': '4967576550727'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572489.html', 'price': '24800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517254.html', 'price': '34800', 'janCode': '4967576501033'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517273.html', 'price': '16444', 'janCode': '4967576501255'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/287573.html', 'price': '9381', 'janCode': '4967576521215'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/285278.html', 'price': '3980', 'janCode': '4967576493758'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572638.html', 'price': '39800', 'janCode': '4967576394383'}
+INFO:amazon:div.s-asin found. janCode=4967576496582
+INFO:amazon:{'asin': 'B0928HQ3W6', 'price': '15935'}
+INFO:amazon:div.s-asin found. janCode=4967576555241
+INFO:amazon:{'asin': 'B09N7JRRN3', 'price': '42942'}
+INFO:amazon:div.s-asin not found. janCode=4955014041418
+INFO:amazon:div.s-asin found. janCode=4967576531597
+INFO:amazon:{'asin': 'B092VYR5JY', 'price': '47800'}
+INFO:amazon:div.s-asin found. janCode=4967576531597
+INFO:amazon:{'asin': 'B092VYR5JY', 'price': '47800'}
+INFO:amazon:div.s-asin found. janCode=4967576452564
+INFO:amazon:{'asin': 'B08YZ1SLQG', 'price': '28789'}
+INFO:amazon:div.s-asin found. janCode=4974305218773
+INFO:amazon:{'asin': 'B089M5MSP3', 'price': '13199'}
+INFO:amazon:div.s-asin found. janCode=4992536441210
+INFO:amazon:{'asin': 'B06XRQNN9P', 'price': '36800'}
+INFO:amazon:div.s-asin found. janCode=4967576423861
+INFO:amazon:{'asin': 'B07TLD5W4K', 'price': '23300'}
+INFO:amazon:div.s-asin found. janCode=4967576250252
+INFO:amazon:{'asin': 'B01LY8NPG5', 'price': '4423'}
+INFO:amazon:div.s-asin found. janCode=4967576550727
+INFO:amazon:{'asin': 'B09N72ZMM8', 'price': '49700'}
+INFO:amazon:div.s-asin found. janCode=4967576501033
+INFO:amazon:{'asin': 'B08NPSK2HD', 'price': '37200'}
+INFO:amazon:div.s-asin found. janCode=4967576501255
+INFO:amazon:{'asin': 'B09SSYFJBD', 'price': '14507'}
+INFO:amazon:div.s-asin found. janCode=4967576521215
+INFO:amazon:{'asin': 'B09TWSHWRY', 'price': '16398'}
+INFO:amazon:div.s-asin found. janCode=4967576493758
+INFO:amazon:{'asin': 'B08LKCM38C', 'price': '3690'}
+INFO:amazon:div.s-asin found. janCode=4967576394383
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2022 11:23:59] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+INFO:index:--- getGoodsCsv start ---
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2022 11:38:22] "GET /static/loading.gif HTTP/1.1" 200 -
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517115.html', 'price': '12800', 'janCode': '4967576496582'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/574849.html', 'price': '16779', 'janCode': '4967576555241'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7094382.html', 'price': '6020', 'janCode': '4955014041418'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p1909757.html', 'price': '2680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/516324.html', 'price': '41800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1901946.html', 'price': '59800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/573718.html', 'price': '11088', 'janCode': '4967576452564'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7145950.html', 'price': '14280', 'janCode': '4974305218773'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7152123.html', 'price': '34400', 'janCode': '4992536441210'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p517557.html', 'price': '13800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/274018.html', 'price': '19800', 'janCode': '4967576423861'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/562091.html', 'price': '3980', 'janCode': '4967576250252'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7616209.html', 'price': '1680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/538563.html', 'price': '49270', 'janCode': '4967576550727'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572489.html', 'price': '24800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517254.html', 'price': '34800', 'janCode': '4967576501033'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517273.html', 'price': '16444', 'janCode': '4967576501255'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/287573.html', 'price': '9381', 'janCode': '4967576521215'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/285278.html', 'price': '3980', 'janCode': '4967576493758'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572638.html', 'price': '39800', 'janCode': '4967576394383'}
+INFO:amazon:{'asin': 'B0928HQ3W6', 'price': '15935'}
+INFO:amazon:{'asin': 'B09N7JRRN3', 'price': '42942'}
+INFO:amazon:div.s-asin not found. janCode=4955014041418
+INFO:amazon:{'asin': 'B092VYR5JY', 'price': '47800'}
+INFO:amazon:{'asin': 'B092VYR5JY', 'price': '47800'}
+INFO:amazon:{'asin': 'B08YZ1SLQG', 'price': '28789'}
+INFO:amazon:{'asin': 'B089M5MSP3', 'price': '13199'}
+INFO:amazon:{'asin': 'B06XRQNN9P', 'price': '36800'}
+INFO:amazon:{'asin': 'B07TLD5W4K', 'price': '23300'}
+INFO:amazon:{'asin': 'B01LY8NPG5', 'price': '4423'}
+INFO:amazon:{'asin': 'B09N72ZMM8', 'price': '49700'}
+INFO:amazon:{'asin': 'B08NPSK2HD', 'price': '37200'}
+INFO:amazon:{'asin': 'B09SSYFJBD', 'price': '14507'}
+INFO:amazon:{'asin': 'B09TWSHWRY', 'price': '16398'}
+INFO:amazon:{'asin': 'B08LKCM38C', 'price': '3690'}
+INFO:amazon:div.s-result-item div.sg-col-inner .a-price-whole not found. janCode=4967576394383
+INFO:index:--- getGoodsCsv end ---
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2022 11:40:22] "POST /download HTTP/1.1" 200 -
+INFO:index:--- getGoodsCsv start ---
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2022 11:44:52] "GET /static/loading.gif HTTP/1.1" 200 -
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517115.html', 'price': '12800', 'janCode': '4967576496582'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/574849.html', 'price': '16779', 'janCode': '4967576555241'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7094382.html', 'price': '6020', 'janCode': '4955014041418'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p1909757.html', 'price': '2680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/516324.html', 'price': '41800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/1901946.html', 'price': '59800', 'janCode': '4967576531597'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/573718.html', 'price': '11088', 'janCode': '4967576452564'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7145950.html', 'price': '14280', 'janCode': '4974305218773'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7152123.html', 'price': '34400', 'janCode': '4992536441210'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/p517557.html', 'price': '13800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/274018.html', 'price': '19800', 'janCode': '4967576423861'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/562091.html', 'price': '3980', 'janCode': '4967576250252'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/7616209.html', 'price': '1680', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/538563.html', 'price': '49270', 'janCode': '4967576550727'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572489.html', 'price': '24800', 'janCode': ''}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517254.html', 'price': '34800', 'janCode': '4967576501033'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/517273.html', 'price': '16444', 'janCode': '4967576501255'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/287573.html', 'price': '9381', 'janCode': '4967576521215'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/285278.html', 'price': '3980', 'janCode': '4967576493758'}
+INFO:yahoo:ok
+INFO:yahoo:{'shop': 'ベストエクセル', 'url': 'https://store.shopping.yahoo.co.jp/bestexcel/572638.html', 'price': '39800', 'janCode': '4967576394383'}
+INFO:amazon:{'asin': 'B0928HQ3W6', 'price': '15935'}
+INFO:amazon:{'asin': 'B09N7JRRN3', 'price': '42942'}
+INFO:amazon:div.s-asin not found. janCode=4955014041418
+INFO:amazon:{'asin': 'B092VYR5JY', 'price': '47800'}
+INFO:amazon:{'asin': 'B092VYR5JY', 'price': '47800'}
+INFO:amazon:{'asin': 'B08YZ1SLQG', 'price': '28789'}
+INFO:amazon:{'asin': 'B089M5MSP3', 'price': '13199'}
+INFO:amazon:{'asin': 'B06XRQNN9P', 'price': '36800'}
+INFO:amazon:{'asin': 'B07TLD5W4K', 'price': '23300'}
+INFO:amazon:{'asin': 'B01LY8NPG5', 'price': '4423'}
+INFO:amazon:{'asin': 'B09N72ZMM8', 'price': '49700'}
+INFO:amazon:{'asin': 'B08NPSK2HD', 'price': '37200'}
+INFO:amazon:{'asin': 'B09SSYFJBD', 'price': '15746'}
+INFO:amazon:{'asin': 'B09TWS6PRM', 'price': '21613'}
+INFO:amazon:{'asin': 'B08LKCM38C', 'price': '3810'}
+INFO:amazon:div.s-result-item div.sg-col-inner .a-price-whole not found. janCode=4967576394383
+INFO:index:--- getGoodsCsv end ---
+INFO:werkzeug:127.0.0.1 - - [07/Jul/2022 11:46:55] "POST /download HTTP/1.1" 200 -
